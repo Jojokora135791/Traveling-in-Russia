@@ -8,6 +8,7 @@
 
   text-align: right;
   text-decoration-line: underline;
+  color: #fff;
 }
 .header__lang-link:last-child {
   margin: 0;
