@@ -1,0 +1,14 @@
+.place {
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: auto auto;
+  grid-auto-flow: column;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 80px;
+  gap: 48px 20px;
+}
+.place:last-child {
+  margin: 0;
+}
