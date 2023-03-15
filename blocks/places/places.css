@@ -2,3 +2,9 @@
   margin: 92px auto;
   max-width: 984px;
 }
+@media screen and (max-width:1024px) {
+  .places {
+    margin-left: 48px;
+    margin-right: 48px;
+  }
+}
