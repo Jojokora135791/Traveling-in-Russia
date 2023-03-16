@@ -11,3 +11,8 @@
     margin-top: 195px;
   }
 }
+@media screen and (max-width:768px) {
+  .cover__title {
+    margin-top: 115px;
+  }
+}
