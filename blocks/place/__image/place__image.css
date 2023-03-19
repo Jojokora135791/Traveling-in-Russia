@@ -8,9 +8,14 @@
     width: 440px;
   }
 }
-@media screen and (max-width:768px) {
+@media screen and (max-width:880px) {
   .place__image {
     width: 340px;
+  }
+}
+@media screen and (max-width:480px) {
+  .place__image {
+    width: 320px;
   }
 }
 @media screen and (max-width:320px) {
