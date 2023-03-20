@@ -1,13 +1,13 @@
 .header__lang-link {
   margin-right: 18px;
+  text-align: right;
+  transition: opacity linear 0.3s;
+
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
   line-height: 28px;
-  transition: linear 0.3s;
-
-  text-align: right;
   text-decoration-line: none;
   color: #fff;
 }

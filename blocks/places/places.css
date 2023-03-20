@@ -20,6 +20,12 @@
 @media screen and (max-width: 480px) {
   .places {
     margin-top: 64px;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .places {
     margin-left: 0;
     margin-right: 0;
   }
