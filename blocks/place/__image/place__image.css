@@ -1,25 +1,5 @@
 .place__image {
-  width: 460px;
+  width: 100%;
   margin: 0;
   padding: 0;
-}
-@media screen and (max-width:1024px) {
-  .place__image {
-    width: 440px;
-  }
-}
-@media screen and (max-width:880px) {
-  .place__image {
-    width: 340px;
-  }
-}
-@media screen and (max-width:480px) {
-  .place__image {
-    width: 320px;
-  }
-}
-@media screen and (max-width:320px) {
-  .place__image {
-    width: 100%;
-  }
 }
